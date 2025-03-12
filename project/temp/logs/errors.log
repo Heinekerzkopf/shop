@@ -1,0 +1,758 @@
+[2025-02-27 13:54:52] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 13:55:08] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 13:55:12] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 13:58:51] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:00:17] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:00:38] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:00:39] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:00:39] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:00:39] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:01:15] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:01:16] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:01:16] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:01:16] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:02:33] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:03:06] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:03:55] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:04:20] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:04:49] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:04:56] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-02-27 14:04:59] Error message: Some error occured... | File: /Applications/XAMPP/xamppfiles/htdocs/project/public/index.php | Line: 9
+============
+[2025-03-03 12:50:52] Error message: Controller app\controllers\admin\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 38
+============
+[2025-03-03 12:51:03] Error message: Controller app\controllers\admin\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 38
+============
+[2025-03-03 12:53:00] Error message: Controller app\controllers\admin\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 42
+============
+[2025-03-03 12:53:12] Error message: Controller app\controllers\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 42
+============
+[2025-03-03 12:53:36] Error message: Controller app\controllers\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 42
+============
+[2025-03-03 12:53:54] Error message: Controller app\controllers\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 42
+============
+[2025-03-03 12:54:17] Error message: Method app\controllers\MainController::indexAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 39
+============
+[2025-03-03 12:56:18] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 46
+============
+[2025-03-03 12:56:51] Error message: Controller app\controllers\admin\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 42
+============
+[2025-03-03 12:56:52] Error message: Controller app\controllers\admin\MainController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Router.php | Line: 42
+============
+[2025-03-04 17:23:21] Error message: Undefined array key "admin-prefix" | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/Controller.php | Line: 21
+============
+[2025-03-04 17:46:21] Error message: Not found view /Applications/XAMPP/xamppfiles/htdocs/project/app/views/Main/index.php | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/View.php | Line: 34
+============
+[2025-03-04 17:50:49] Error message: syntax error, unexpected token "}" | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/View.php | Line: 43
+============
+[2025-03-04 17:51:00] Error message: syntax error, unexpected token "}" | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/View.php | Line: 43
+============
+[2025-03-04 17:51:07] Error message: Not found layout /Applications/XAMPP/xamppfiles/htdocs/project/app/views/layouts/project.php | File: /Applications/XAMPP/xamppfiles/htdocs/project/vendor/wfm/View.php | Line: 44
+============
+[2025-03-06 13:15:08] Error message: Call to a member function find() on null | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 1026
+============
+[2025-03-06 13:18:54] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:22:01] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:35:29] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:37:50] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:37:51] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:37:58] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:38:36] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:39:40] Error message: Undefined array key "dsn" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 14
+============
+[2025-03-06 13:40:40] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:42:07] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:47:52] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 16
+============
+[2025-03-06 13:48:41] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 18
+============
+[2025-03-06 13:51:38] Error message: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'kore09'@'localhost' (using password: YES) | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 26
+============
+[2025-03-06 13:54:09] Error message: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'kore09'@'localhost' (using password: YES) | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 26
+============
+[2025-03-06 13:54:10] Error message: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'kore09'@'localhost' (using password: YES) | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 26
+============
+[2025-03-06 13:54:10] Error message: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'kore09'@'localhost' (using password: YES) | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 26
+============
+[2025-03-06 13:54:10] Error message: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'kore09'@'localhost' (using password: YES) | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 26
+============
+[2025-03-06 13:54:17] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 18
+============
+[2025-03-06 13:57:06] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 18
+============
+[2025-03-06 14:00:05] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:00:55] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:00:56] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:00:57] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:00:57] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:00:57] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:02:07] Error message: SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-03-06 14:40:24] Error message: Call to undefined method PDO::grep() | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 64
+============
+[2025-03-06 14:40:29] Error message: Call to undefined method PDO::grep() | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 64
+============
+[2025-03-06 14:43:54] Error message: Cannot instantiate interface RedBeanPHP\Logger | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 62
+============
+[2025-03-06 14:43:56] Error message: Cannot instantiate interface RedBeanPHP\Logger | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 62
+============
+[2025-03-06 14:43:57] Error message: Cannot instantiate interface RedBeanPHP\Logger | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 62
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:32:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:34:48] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:35:07] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:21] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:22] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:23] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:37] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:37:45] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:11] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:38:34] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============
+[2025-03-10 12:43:33] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 59
+============

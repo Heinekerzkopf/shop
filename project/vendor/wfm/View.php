@@ -50,7 +50,7 @@ class View
 
     public function getMeta()
     {
-        $out = '<title>' . h($this->meta['title']) . '</title>' . PHP_EOL;
+        $out = '<title>' . App::$app->getProperty('site_name') . ' :: ' . h($this->meta['title']) . '</title>' . PHP_EOL;
         $out .= '<meta name="description" content="' . h($this->meta['description']) . '">' . PHP_EOL;
         $out .= '<meta name="keywords" content="' . h($this->meta['keywords']) . '">' . PHP_EOL;
         return $out;
@@ -59,20 +59,27 @@ class View
     public function getDbLogs()
     {
         if (DEBUG) {
-            $logger = R::getDatabaseAdapter()->getDatabase()->getLogger();
-
-            $logs = array_merge(
-                $logger->grep('SELECT'),
-                $logger->grep('INSERT'),
-                $logger->grep('UPDATE'),
-                $logger->grep('DELETE')
-            );
-
-            debug($logs);
+            if (R::testConnection()) {
+    
+                /** @var \RedBeanPHP\Logger\RDefault|null $logger */
+                $logger = R::getDatabaseAdapter()->getDatabase()->getLogger();
+                
+                $logs = array_merge(
+                    $logger->grep('SELECT'),
+                    $logger->grep('select'),
+                    $logger->grep('INSERT'),
+                    $logger->grep('UPDATE'),
+                    $logger->grep('DELETE')
+                );
+                
+                debug($logs);
+            }
         }
     }
+    
 
-    public function getPart($file, $data = null) {
+    public function getPart($file, $data = null)
+    {
         if (is_array($data)) {
             extract($data);
         }

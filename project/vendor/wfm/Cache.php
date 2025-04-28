@@ -1,15 +1,18 @@
 <?php
 
+
 namespace wfm;
+
 
 class Cache
 {
- 
+
     use TSingleton;
 
-    public function set($key, $data, $sec = 3600): bool {
+    public function set($key, $data, $seconds = 3600): bool
+    {
         $content['data'] = $data;
-        $content['end_time'] = time() + $sec;
+        $content['end_time'] = time() + $seconds;
         if (file_put_contents(CACHE . '/' . md5($key) . '.txt', serialize($content))) {
             return true;
         } else {
@@ -17,7 +20,8 @@ class Cache
         }
     }
 
-    public function get($key) {
+    public function get($key)
+    {
         $file = CACHE . '/' . md5($key) . '.txt';
         if (file_exists($file)) {
             $content = unserialize(file_get_contents($file));
@@ -29,10 +33,12 @@ class Cache
         return false;
     }
 
-    public function delete($key) {
+    public function delete($key)
+    {
         $file = CACHE . '/' . md5($key) . '.txt';
         if (file_exists($file)) {
             unlink($file);
         }
     }
+
 }

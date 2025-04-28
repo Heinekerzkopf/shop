@@ -3,7 +3,6 @@ html {
 }
 
 body {
-	padding-top: 135px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	line-height: 27px;
@@ -11,6 +10,7 @@ body {
 	color: #000;
 	background-color: #fff;
 	min-width: 320px;
+	padding-top: 135px;
 }
 
 img{
@@ -189,9 +189,18 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 .modal-body a {
 	color: #ee6e73;
 }
+
+.cart-table img {
+	max-height: 50px;
+}
 /* Header top */
 
 /* Header bottom */
+.header-bottom {
+	background-color: #fff;
+	box-shadow: 0 5px 5px -5px rgba(0,0,0,.5);
+}
+
 .header-bottom .navbar-nav li a.nav-link {
     color: #000;
     font-size: 13px;
@@ -217,13 +226,11 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 }
 /* Header bottom */
 
-.header-bottom {
-	background-color: #fff;
-}
-
 /* Carousel */
 .my-carousel {
 	padding: 0;
+	position: relative;
+	top: -10px;
 }
 .my-carousel .carousel-item {
 	display: flex;

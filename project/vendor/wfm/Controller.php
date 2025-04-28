@@ -2,7 +2,7 @@
 
 namespace wfm;
 
-abstract class Controller 
+abstract class Controller
 {
     public array $data = [];
     public array $meta = ['title' => '', 'keywords' => '', 'description' => ''];
@@ -16,16 +16,14 @@ abstract class Controller
      * 
      * @param array $route Informace o směrování (např. kontroler, akce).
      */
-    public function __construct(public $route = [])
-    {
-        
-    }
+    public function __construct(public $route = []) {}
 
     /**
      * Načte model podle směrování a uloží ho do objektu.
      * Model je dynamicky generován na základě informací o kontroleru.
      */
-    public function getModel() {
+    public function getModel()
+    {
         $model = 'app\models\\' . $this->route['admin_prefix'] . $this->route['controller'];
         if (class_exists($model)) {
             $this->model = new $model();
@@ -36,7 +34,8 @@ abstract class Controller
      * Načte šablonu pro zobrazení a renderuje ji s daty.
      * Pokud není šablona nastavena, použije se akce z routy jako výchozí.
      */
-    public function getView() {
+    public function getView()
+    {
         $this->view = $this->view ?: $this->route['action'];
         (new View($this->route, $this->layout, $this->view, $this->meta))->render($this->data);
     }
@@ -46,7 +45,8 @@ abstract class Controller
      * 
      * @param array $data Data pro šablonu.
      */
-    public function set($data) {
+    public function set($data)
+    {
         $this->data = $data;
     }
 
@@ -57,11 +57,25 @@ abstract class Controller
      * @param string $description Popis stránky.
      * @param string $keywords Klíčová slova pro SEO.
      */
-    public function setMeta($title = '', $description = '', $keywords = '') {
+    public function setMeta($title = '', $description = '', $keywords = '')
+    {
         $this->meta = [
-            'title' => $title, 
-            'description' => $description, 
+            'title' => $title,
+            'description' => $description,
             'keywords' => $keywords
         ];
+    }
+
+    public function isAjax(): bool
+    {
+        return isset($_SERVER['HTTP_X_REQUESTED_WITH']) && $_SERVER['HTTP_X_REQUESTED_WITH'] === 'XMLHttpRequest';
+    }
+
+    public function loadView($view, $vars = [])
+    {
+        extract($vars);
+        $prefix = str_replace('\\', '/', $this->route['admin_prefix']);
+        require APP . "/views/{$prefix}{$this->route['controller']}/{$view}.php";
+        die;
     }
 }

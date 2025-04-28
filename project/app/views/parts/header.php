@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
     <link rel="stylesheet" href="<?= PATH ?>/assets/css/main.css?v=<?= time() ?>">
     <link rel="stylesheet" href="<?= PATH ?>/assets/css/magnific-popup.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="<?= PATH ?>/assets/img/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?= PATH ?>/public/assets/img/favicon.png">
     <?= $this->getMeta(); ?>
 </head>
 
@@ -36,9 +36,9 @@
                         </form>
                         <a href="#" class="open-search"><i class="fas fa-search"></i></a>
 
-                        <a href="#" class="relative" data-bs-toggle="modal" data-bs-target="#cart-modal">
+                        <a href="#" class="relative" id="get-cart" data-bs-toggle="modal" data-bs-target="#cart-modal">
                             <i class="fas fa-shopping-cart"></i>
-                            <span class="badge bg-danger rounded-pill count-items">0</span>
+                            <span class="badge bg-danger rounded-pill count-items"><?= $_SESSION['cart.qty'] ?? 0 ?></span>
                         </a>
 
                         <a href="#"><i class="far fa-heart"></i></a>
@@ -48,29 +48,27 @@
                                 <i class="far fa-user"></i>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#"><?php __('tpl_login'); ?></a></li>
-                                <li><a class="dropdown-item" href="#"><?php __('tpl_signup'); ?></a></li>
+                                <li><a class="dropdown-item" href="#"><?php __('tpl_login');?></a></li>
+                                <li><a class="dropdown-item" href="#"><?php __('tpl_signup');?></a></li>
                             </ul>
                         </div>
 
-                        <?php
-
-                        use app\widgets\language\Language;
-
-                        new Language()
-                        ?>
+                        <?php new \app\widgets\language\Language() ?>
 
                     </div>
                 </div>
             </div>
         </div><!-- header-top -->
+
         <div class="header-bottom py-2">
             <div class="container">
 
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <div class="container-fluid p-0">
-                        <a class="navbar-brand" href="<?= base_url() ?>"><?= \wfm\App::$app->getProperty('site_name'); ?></a>
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <a class="navbar-brand" href="<?= base_url() ?>"><?= \wfm\App::$app->getProperty('site_name') ?></a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
 

@@ -7,3 +7,4 @@ return [
     'main_index_featured_products' => 'Doporučené produkty',
     'main_index_advantages' => 'Proč nakupovat s nami?',
 ];
+ 

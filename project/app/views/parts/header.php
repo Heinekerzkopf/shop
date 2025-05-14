@@ -48,9 +48,14 @@
                                 <i class="far fa-user"></i>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#"><?php __('tpl_login');?></a></li>
-                                <li><a class="dropdown-item" href="#"><?php __('tpl_signup');?></a></li>
-                            </ul>
+                            <?php if (empty($_SESSION['user'])): ?>
+                                <li><a class="dropdown-item" href="user/login"><?php __('tpl_login'); ?></a></li>
+                                <li><a class="dropdown-item" href="user/signup"><?php __('tpl_signup'); ?></a></li>
+                            <?php else: ?>
+                                <li><a class="dropdown-item" href="user/cabinet"><?php __('tpl_cabinet'); ?></a></li>
+                                <li><a class="dropdown-item" href="user/logout"><?php __('tpl_logout'); ?></a></li>
+                            <?php endif; ?>
+                        </ul>
                         </div>
 
                         <?php new \app\widgets\language\Language() ?>

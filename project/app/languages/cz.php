@@ -13,7 +13,7 @@ return [
     'tpl_home_link' => 'Hlavní',
 
     'tpl_home_breadcrumbs' => '<i class="fas fa-home"></i>',
-    'tpl_total_pagination' => 'zboží',
+    'tpl_total_pagination' => 'zboží z',
 
     'tpl_cart_title' => 'Košík',
     'tpl_cart_photo' => 'Obrázek',

@@ -13,6 +13,12 @@ body {
 	padding-top: 135px;
 }
 
+label.required::before {
+	content: '* ';
+	color: red;
+	font-weight: 700;
+}
+
 img{
 	max-width: 100%;
 	height: auto;
@@ -413,19 +419,6 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 }
 
 /* Category */
-
-.sidebar-toggler .btn {
-	width: 100%;
-}
-
-.sidebar-toggle {
-	display: none;
-}
-
-.sidebar .list-group-item.active {
-	background-color: #ee6e73;
-	border-color: #ee6e73;
-}
 
 .page-link {
 	color: #ee6e73;

@@ -2252,3 +2252,23 @@
 ============
 [2025-05-14 21:59:45] Error message: Method app\controllers\UserController::cabinetAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
 ============
+[2025-05-14 23:25:32] Error message: Class "wfm\Db" not found | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Model.php | Line: 20
+============
+[2025-05-15 12:34:02] Error message: Method app\controllers\UserController::ordersAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 12:34:03] Error message: Method app\controllers\UserController::filesAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 12:34:05] Error message: Method app\controllers\UserController::credentialsAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 12:59:23] Error message: Method app\controllers\UserController::orderAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 13:15:34] Error message: Method app\controllers\UserController::downloadAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 13:17:33] Error message: Method app\controllers\UserController::orderAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 13:59:14] Error message: Method app\controllers\UserController::credentialsAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-15 14:13:22] Error message: SQLSTATE[HY000]: General error: 1364 Field 'email' doesn't have a default value | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+============
+[2025-05-15 14:25:44] Error message: Object of class app\models\User could not be converted to string | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/controllers/CartController.php | Line: 80
+============

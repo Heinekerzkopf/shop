@@ -21,6 +21,7 @@ class User extends AppModel
         'lengthMin' => [
             ['password', 6],
         ],
+        'optional' => ['email', 'password'],
     ];
 
     public array $labels = [
@@ -68,5 +69,33 @@ class User extends AppModel
             }
         }
         return false;
+    }
+
+    public function get_count_orders($user_id): int
+    {
+        return R::count('orders', 'user_id = ?', [$user_id]);
+    }
+
+    public function get_user_orders($start, $perpage, $user_id): array
+    {
+        return R::getAll("SELECT * FROM orders WHERE user_id = ? ORDER BY id DESC LIMIT $start, $perpage", [$user_id]);
+    }
+
+    public function get_count_files(): int
+    {
+        return R::count('order_download', 'user_id = ? AND status = 1', [$_SESSION['user']['id']]);
+    }
+
+    public function get_user_files($start, $perpage, $lang): array
+    {
+        return R::getAll(
+            "SELECT od.*, d.*, dd.* 
+                            FROM order_download od 
+                            JOIN download d on d.id = od.download_id 
+                            JOIN download_description dd on d.id = dd.download_id 
+                            WHERE od.user_id = ? AND od.status = 1 AND  dd.language_id = ? 
+                            LIMIT $start, $perpage",
+            [$_SESSION['user']['id'], $lang['id']]
+        );
     }
 }

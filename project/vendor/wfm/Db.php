@@ -31,11 +31,14 @@ class Db {
         }
 
         // Zamrzne strukturu databáze pro prevenci změn
-        R::freeze(true);
+        R::freeze(false);
 
         // Pokud je povoleno ladění (DEBUG), zapne se zobrazování SQL dotazů
         if (DEBUG) {
             R::debug(true, 3);
         }
+        R::ext('xdispense', function( $type ){
+            return R::getRedBean()->dispense( $type );
+        });
     }
 }

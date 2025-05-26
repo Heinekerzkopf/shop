@@ -33,5 +33,6 @@
 <!-- AdminLTE for demo purposes -->
 <script src="<?= PATH ?>/adminlte/dist/js/demo.js"></script>
 <script src="<?= PATH ?>/adminlte/main.js"></script>
+<script src="<?= PATH ?>/adminlte/plugins/select2/js/select2.full.js"></script>
 </body>
 </html>

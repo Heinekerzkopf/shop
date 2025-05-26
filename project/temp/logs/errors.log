@@ -2276,3 +2276,73 @@
 ============
 [2025-05-26 12:31:19] Error message: Not found layout /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/views/layouts/login.php | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 46
 ============
+[2025-05-26 12:45:30] Error message: Method app\controllers\admin\UserController::editAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 12:51:16] Error message: Method app\controllers\admin\UserController::indexAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 13:21:13] Error message: Division by zero | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Pagination.php | Line: 103
+============
+[2025-05-26 13:22:09] Error message: Method app\controllers\admin\ProductController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 13:28:37] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 76
+============
+[2025-05-26 13:33:41] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 76
+============
+[2025-05-26 13:33:48] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 76
+============
+[2025-05-26 13:34:58] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 76
+============
+[2025-05-26 13:39:40] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 76
+============
+[2025-05-26 13:40:47] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 76
+============
+[2025-05-26 13:50:32] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 77
+============
+[2025-05-26 13:50:48] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 77
+============
+[2025-05-26 13:52:39] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 77
+============
+[2025-05-26 13:54:17] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 77
+============
+[2025-05-26 13:56:10] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 77
+============
+[2025-05-26 13:56:11] Error message: foreach() argument must be of type array|object, null given | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/widgets/menu/Menu.php | Line: 77
+============
+[2025-05-26 14:57:49] Error message: Controller app\controllers\admin\CategoryController was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 58
+============
+[2025-05-26 15:01:15] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:04:33] Error message: Method app\controllers\admin\CategoryController::editAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:04:35] Error message: Method app\controllers\admin\CategoryController::deleteAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:08:55] Error message: Method app\controllers\admin\CategoryController::editAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:32:02] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:35:21] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:35:24] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:35:32] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:35:41] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:40:59] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:41:23] Error message: Method app\controllers\admin\CategoryController::addAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 15:58:33] Error message: Undefined array key "excerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/models/admin/Product.php | Line: 77
+============
+[2025-05-26 15:59:36] Error message: Undefined array key "excerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/models/admin/Product.php | Line: 34
+============
+[2025-05-26 16:00:14] Error message: Undefined array key "excerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/models/admin/Product.php | Line: 34
+============
+[2025-05-26 16:01:10] Error message: Undefined array key "excerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/models/admin/Product.php | Line: 34
+============
+[2025-05-26 16:01:50] Error message: Undefined array key "excerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/models/admin/Product.php | Line: 34
+============
+[2025-05-26 16:03:12] Error message: Undefined array key "excerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/models/admin/Product.php | Line: 34
+============
+[2025-05-26 16:14:12] Error message: Method app\controllers\admin\CategoryController::editAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============

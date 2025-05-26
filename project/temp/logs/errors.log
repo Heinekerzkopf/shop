@@ -2272,3 +2272,7 @@
 ============
 [2025-05-15 14:25:44] Error message: Object of class app\models\User could not be converted to string | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/controllers/CartController.php | Line: 80
 ============
+[2025-05-26 12:08:30] Error message: Not found layout /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/views/layouts/admin.php | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 46
+============
+[2025-05-26 12:31:19] Error message: Not found layout /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/views/layouts/login.php | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/View.php | Line: 46
+============

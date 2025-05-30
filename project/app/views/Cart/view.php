@@ -60,6 +60,7 @@
                             <div class="form-floating mb-3">
                                 <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com" value="<?= get_field_value('email') ?>">
                                 <label class="required" for="email"><?php __('cart_view_email_input'); ?></label>
+                                <p>Hello</p>
                             </div>
                         </div>
 

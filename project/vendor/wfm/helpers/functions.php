@@ -13,16 +13,44 @@ function h($str)
     return htmlspecialchars($str ?? '');
 }
 
-function redirect($http = false)
+// function redirect($http = false)
+// {
+//     if ($http) {
+//         $redirect = $http;
+//     } else {
+//         $redirect = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : PATH;
+//     }
+//     header("Location: $redirect");
+//     die;
+// }
+
+
+/**
+ * Přesměrování na zadanou adresu.
+ *  - když není zadaná, zkusí Referer
+ *  - když Referer chybí, zůstane na stejné URL
+ */
+function redirect(string|null $to = null, bool $permanent = false): void
 {
-    if ($http) {
-        $redirect = $http;
+    if ($to) {
+        $location = $to;
+    } elseif (!empty($_SERVER['HTTP_REFERER'])) {
+        $location = $_SERVER['HTTP_REFERER'];
     } else {
-        $redirect = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : PATH;
+        $scheme   = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+        $location = $scheme . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
     }
-    header("Location: $redirect");
-    die;
+
+    $location = str_replace(["\r", "\n"], '', $location);
+
+    if ($location && $location[0] === '/') {
+        $location = rtrim(PATH, '/') . $location;
+    }
+
+    header('Location: ' . $location, true, $permanent ? 301 : 302);
+    exit;
 }
+
 
 function base_url()
 {

@@ -80,12 +80,12 @@ class CartController extends AppController
                 if (!$user->validate($user->attributes) || !$user->checkUnique()) {
                     $user->getErrors();
                     $_SESSION['form_data'] = $user->attributes;
-                    redirect();
+                    redirect(PATH . '/cart/view');
                 } else {
                     $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
                     if (!$user_id = $user->save('user')) {
                         $_SESSION['errors'] = ___('cart_checkout_error_register');
-                        redirect();
+                        redirect(PATH . '/cart/view');
                     }
                 }
             }
@@ -97,6 +97,7 @@ class CartController extends AppController
 
             if (!$order_id = Order::saveOrder($data)) {
                 $_SESSION['errors'] = ___('cart_checkout_error_save_order');
+                redirect(PATH . '/cart/view');
             } else {
                 Order::mailOrder($order_id, $user_email, 'mail_order_user');
                 Order::mailOrder($order_id, App::$app->getProperty('admin_email'), 'mail_order_admin');
@@ -106,7 +107,7 @@ class CartController extends AppController
                 $_SESSION['success'] = ___('cart_checkout_order_success');
             }
         }
-        redirect();
+        redirect(PATH . '/cart/view');
     }
 
 }

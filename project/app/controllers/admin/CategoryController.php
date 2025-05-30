@@ -34,7 +34,7 @@ class CategoryController extends AppController
             R::exec("DELETE FROM category_description WHERE category_id = ?", [$id]);
             $_SESSION['success'] = 'Kategorie byla smazana';
         }
-        redirect();
+        redirect(ADMIN . '/category');
     }
     public function addAction()
     {
@@ -42,11 +42,12 @@ class CategoryController extends AppController
             if ($this->model->category_validate()) {
                 if ($this->model->save_category()) {
                     $_SESSION['success'] = 'Kategorie byla uložena';
+                    redirect(ADMIN . '/category');
                 } else {
                     $_SESSION['errors'] = 'Chyba!';
                 }
             }
-            redirect();
+            redirect(ADMIN . '/category/add');
         }
         $title = 'Nová Kategorie';
         $this->setMeta("Admin :: {$title}");

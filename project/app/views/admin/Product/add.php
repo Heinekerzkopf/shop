@@ -8,9 +8,9 @@
             <div class="form-group">
                 <label class="required" for="parent_id">Kategorie</label>
                 <select name="parent_id" id="parent_id" required class="form-control">
-                    <?php foreach ($options as $id => $title): ?>
+                    <?php foreach ($options as $id => $optLabel): ?>
                         <option value="<?= $id ?>" <?= ($id == get_field_value('parent_id')) ? 'selected' : '' ?>>
-                            <?= $title ?>
+                            <?= $optLabel ?>
                         </option>
                     <?php endforeach; ?>
                 </select>
@@ -140,80 +140,3 @@
 
 </div>
 <!-- /.card -->
-
-<script>
-    function popupBaseImage() {
-        CKFinder.popup({
-            chooseFiles: true,
-            onInit: function(finder) {
-                finder.on('files:choose', function(evt) {
-                    var file = evt.data.files.first();
-                    const baseImgOutput = document.getElementById('base-img-output');
-                    baseImgOutput.innerHTML = '<div class="product-img-upload"><img src="' + file.getUrl() + '"><input type="hidden" name="img" value="' + file.getUrl() + '"><button class="del-img btn btn-app bg-danger"><i class="far fa-trash-alt"></i></button></div>';
-                });
-                finder.on('file:choose:resizedImage', function(evt) {
-                    const baseImgOutput = document.getElementById('base-img-output');
-                    baseImgOutput.innerHTML = '<div class="product-img-upload"><img src="' + evt.data.resizedUrl + '"><input type="hidden" name="img" value="' + evt.data.resizedUrl + '"><button class="del-img btn btn-app bg-danger"><i class="far fa-trash-alt"></i></button></div>';
-                });
-            }
-        });
-    }
-</script>
-
-<script>
-    function popupGalleryImage() {
-        CKFinder.popup({
-            chooseFiles: true,
-            onInit: function(finder) {
-                finder.on('files:choose', function(evt) {
-                    var file = evt.data.files.first();
-                    const galleryImgOutput = document.getElementById('gallery-img-output');
-
-                    if (galleryImgOutput.innerHTML) {
-                        galleryImgOutput.innerHTML += '<div class="product-img-upload"><img src="' + file.getUrl() + '"><input type="hidden" name="gallery[]" value="' + file.getUrl() + '"><button class="del-img btn btn-app bg-danger"><i class="far fa-trash-alt"></i></button></div>';
-                    } else {
-                        galleryImgOutput.innerHTML = '<div class="product-img-upload"><img src="' + file.getUrl() + '"><input type="hidden" name="gallery[]" value="' + file.getUrl() + '"><button class="del-img btn btn-app bg-danger"><i class="far fa-trash-alt"></i></button></div>';
-                    }
-
-                });
-                finder.on('file:choose:resizedImage', function(evt) {
-                    const baseImgOutput = document.getElementById('base-img-output');
-
-                    if (galleryImgOutput.innerHTML) {
-                        galleryImgOutput.innerHTML += '<div class="product-img-upload"><img src="' + file.getUrl() + '"><input type="hidden" name="gallery[]" value="' + file.getUrl() + '"><button class="del-img btn btn-app bg-danger"><i class="far fa-trash-alt"></i></button></div>';
-                    } else {
-                        galleryImgOutput.innerHTML = '<div class="product-img-upload"><img src="' + file.getUrl() + '"><input type="hidden" name="gallery[]" value="' + file.getUrl() + '"><button class="del-img btn btn-app bg-danger"><i class="far fa-trash-alt"></i></button></div>';
-                    }
-
-                });
-            }
-        });
-    }
-</script>
-
-<script>
-    window.editors = {};
-    document.querySelectorAll('.editor').forEach((node, index) => {
-        ClassicEditor
-            .create(node, {
-                ckfinder: {
-                    uploadUrl: '<?= PATH ?>/adminlte/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Files&responseType=json',
-                },
-                toolbar: ['ckfinder', '|', 'heading', '|', 'bold', 'italic', '|', 'undo', 'redo', '|', 'link', 'bulletedList', 'numberedList', 'insertTable', 'blockQuote'],
-                image: {
-                    toolbar: ['imageTextAlternative', '|', 'imageStyle:alignLeft', 'imageStyle:alignCenter', 'imageStyle:alignRight'],
-                    styles: [
-                        'alignLeft',
-                        'alignCenter',
-                        'alignRight'
-                    ]
-                }
-            })
-            .then(newEditor => {
-                window.editors[index] = newEditor
-            })
-            .catch(error => {
-                console.error(error);
-            });
-    });
-</script>

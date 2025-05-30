@@ -2346,3 +2346,41 @@
 ============
 [2025-05-26 16:14:12] Error message: Method app\controllers\admin\CategoryController::editAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
 ============
+[2025-05-26 16:37:56] Error message: Method app\controllers\admin\ProductController::deleteAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-26 16:49:49] Error message: Undefined array key "exerpt" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/views/admin/Product/edit.php | Line: 180
+============
+[2025-05-26 16:49:49] Error message: Page was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 62
+============
+[2025-05-28 13:44:19] Error message: Method app\controllers\admin\UserController::editAction was not founded | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Router.php | Line: 55
+============
+[2025-05-28 13:45:16] Error message: Undefined array key "title" | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/controllers/admin/ProductController.php | Line: 65
+============
+[2025-05-28 13:45:37] Error message: compact(): Undefined variable $Nový produkt | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/app/controllers/admin/ProductController.php | Line: 58
+============
+[2025-05-28 22:52:07] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:15] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:26] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:26] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:27] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:27] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:27] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:27] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:28] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:28] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:35] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 22:52:55] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============
+[2025-05-28 23:15:32] Error message: No connection to database | File: /Applications/XAMPP/xamppfiles/htdocs/shop/project/vendor/wfm/Db.php | Line: 30
+============

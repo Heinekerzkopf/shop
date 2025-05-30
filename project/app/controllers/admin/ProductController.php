@@ -49,19 +49,20 @@ class ProductController extends AppController
             JOIN category_description cd ON c.id = cd.category_id
             WHERE cd.language_id = ?
             ORDER BY c.parent_id, cd.title
-        ", [ $lang ]);
-    
+        ", [$lang]);
+
         $options = $this->buildOptions($cats);
-    
+
         $title = 'Nový produkt';
         $this->setMeta("Admin :: {$title}");
         $this->set(compact('options', 'title'));
     }
+
     protected function buildOptions(array $cats): array
     {
         $tree = [];
         foreach ($cats as $cat) {
-            $depth = $this->depth($cat['parent_id'], $cats); 
+            $depth = $this->depth($cat['parent_id'], $cats);
             $tree[$cat['id']] = str_repeat('-- ', $depth) . $cat['title'];
         }
         return $tree;
@@ -77,5 +78,59 @@ class ProductController extends AppController
             $d++;
         }
         return $d;
+    }
+
+    public function editAction()
+    {
+        $id = get('id');
+
+        if (!empty($_POST)) {
+            if ($this->model->product_validate()) {
+                if ($this->model->update_product($id)) {
+                    $_SESSION['success'] = 'Produkt byl uložen';
+                } else {
+                    $_SESSION['errors'] = 'Chyba při uložení produktu';
+                }
+            }
+            redirect();
+        }
+
+        $product = $this->model->get_product($id);
+        if (!$product) {
+            throw new \Exception('Not found product', 404);
+        }
+
+        $gallery = $this->model->get_gallery($id);
+
+        $lang = App::$app->getProperty('language')['id'];
+        App::$app->setProperty('parent_id', $product[$lang]['category_id']);
+        $title = 'Úprava produktu';
+        $this->setMeta("Admin :: {$title}");
+        $this->set(compact('title', 'product', 'gallery'));
+    }
+
+    public function getDownloadAction()
+    {
+        $q = get('q', 's');
+        $downloads = $this->model->get_downloads($q);
+        echo json_encode($downloads);
+        die;
+    }
+
+    public function deleteAction()
+    {
+        $id = get('id', 'i');
+
+        if (!$id) {
+            throw new \Exception('Chybí ID produktu', 400);
+        }
+
+        if ($this->model->delete_product($id)) {
+            $_SESSION['success'] = 'Produkt byl smazán';
+        } else {
+            $_SESSION['errors']  = 'Chyba při mazání produktu';
+        }
+
+        redirect(ADMIN . '/product');
     }
 }

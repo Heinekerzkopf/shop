@@ -1,11 +1,11 @@
-a:2:{s:4:"data";s:846:"<li class="nav-item ">
-    <a class="nav-link " href="category/pocitace" >Počítače</a>
+a:2:{s:4:"data";s:840:"<li class="nav-item ">
+    <a class="nav-link " href="category/pocitace" >Computers</a>
     </li>
 <li class="nav-item ">
-    <a class="nav-link " href="category/tablety" >Tablety</a>
+    <a class="nav-link " href="category/tablety" >Tablets</a>
     </li>
 <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="category/notebooky" data-bs-toggle="dropdown">Notebooky</a>
+    <a class="nav-link dropdown-toggle" href="category/notebooky" data-bs-toggle="dropdown">Notebooks</a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li class="nav-item ">
     <a class="nav-link " href="category/mac" >MacOS</a>
@@ -16,9 +16,9 @@ a:2:{s:4:"data";s:846:"<li class="nav-item ">
         </ul>
     </li>
 <li class="nav-item ">
-    <a class="nav-link " href="category/mobily" >Mobily</a>
+    <a class="nav-link " href="category/mobily" >Phones</a>
     </li>
 <li class="nav-item ">
-    <a class="nav-link " href="category/fotoaparaty" >Fotoaparaty</a>
+    <a class="nav-link " href="category/fotoaparaty" >Cameras</a>
     </li>
-";s:8:"end_time";i:1748467597;}
+";s:8:"end_time";i:1748433360;}
